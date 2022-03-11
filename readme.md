@@ -4,4 +4,6 @@
 
 # Umur Saya 20
 
-# Balikpapan
+# Balikpapan, Perumahan Wahana Asri 2
+
+# Sistem Informasi
