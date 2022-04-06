@@ -6,7 +6,7 @@
 
 # Balikpapan, Perumahan Wahana Asri 2
 
-# Sistem Informasi
+# Matematika
 
 # Memancing
 
